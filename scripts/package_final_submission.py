@@ -107,7 +107,7 @@ def write_manifest(paths: list[Path], text_hits: list[dict[str, str]]) -> None:
     payload = {
         "created_utc": datetime.now(timezone.utc).isoformat(),
         "decision": "READY TO SUBMIT WITH DISCLOSED LIMITATIONS",
-        "repository_target": "https://github.com/AnkoninaShahar/qapinn-thermo-optic",
+        "repository_target": "https://github.com/AmogghB/qapinn-thermo-optic",
         "authors": [
             {"name": "Amoggh Bellad", "email": "amogghb@gmail.com"},
             {"name": "Shahar Ankonina", "email": "shahar.ankonina05@gmail.com"},

@@ -1,16 +1,15 @@
 # Contribution Statement
 
-Amoggh Bellad <amogghb@gmail.com> led the silicon-photonics research direction, thermo-optic
-phase-shifter context, heater and waveguide physical interpretation, optical
-phase model, thermal crosstalk model, photonics literature, reduced
-photonic-device assumptions, photonic limitations, and future photonic
-extensions.
+Amoggh Bellad <amogghb@gmail.com> led silicon-photonics modeling; heater and
+waveguide physical interpretation; optical phase and crosstalk models;
+photonics literature review; reduced-device assumptions; quantum-circuit
+design; explainability, Fourier, gradient, residual, and feature analyses;
+limitations; and future research recommendations.
 
-Shahar Ankonina <shahar.ankonina05@gmail.com> led the numerical PDE implementation, classical PINN
-implementation, QAPINN implementation, quantum circuits, optimizer
-implementation, numerical reference computation, explainability implementation,
-Fourier analysis, gradient analysis, residual analysis, feature analysis,
-experiment infrastructure, and software infrastructure.
+Shahar Ankonina <shahar.ankonina05@gmail.com> led numerical PDE implementation;
+classical PINN implementation; QAPINN software implementation; optimizer and
+training implementation; numerical reference computation; experiment
+infrastructure; reproducibility workflow; and software infrastructure.
 
 Both authors contributed to experimental-design decisions, result
 interpretation, final review, the technical report, the presentation,

@@ -313,12 +313,13 @@ def build_pdf() -> None:
     )
     story.append(
         p(
-            "Amoggh Bellad led the silicon-photonics direction, thermo-optic phase-shifter context, optical phase "
-            "model, crosstalk model, photonics literature, reduced-device assumptions, limitations, and photonic "
-            "future work. Shahar Ankonina led the numerical PDE implementation, classical PINNs, QAPINNs, quantum "
-            "circuits, reference computation, explainability, Fourier analysis, residual analysis, feature analysis, "
-            "and software infrastructure. Both authors contributed to design decisions, interpretation, final review, "
-            "the report, the presentation, validation, and packaging."
+            "Amoggh Bellad led silicon-photonics modeling; heater and waveguide physical interpretation; optical phase "
+            "and crosstalk models; photonics literature review; reduced-device assumptions; quantum-circuit design; "
+            "explainability, Fourier, gradient, residual, and feature analyses; limitations; and future research "
+            "recommendations. Shahar Ankonina led numerical PDE implementation; classical PINN implementation; QAPINN "
+            "software implementation; optimizer and training implementation; numerical reference computation; "
+            "experiment infrastructure; reproducibility workflow; and software infrastructure. Both authors contributed "
+            "to design decisions, interpretation, final review, the report, the presentation, validation, and packaging."
         )
     )
     story.append(h1("Recommendations for Future Research"))

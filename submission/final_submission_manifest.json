@@ -1,7 +1,7 @@
 {
-  "created_utc": "2026-08-08T03:43:38.385953+00:00",
+  "created_utc": "2026-08-08T04:31:45.507491+00:00",
   "decision": "READY TO SUBMIT WITH DISCLOSED LIMITATIONS",
-  "repository_target": "https://github.com/AnkoninaShahar/qapinn-thermo-optic",
+  "repository_target": "https://github.com/AmogghB/qapinn-thermo-optic",
   "authors": [
     {
       "name": "Amoggh Bellad",
@@ -187,8 +187,8 @@
     "configs/q1_entangled.yaml": "c74d7915b934b4aa46a9319ff9c1115f67fd60a5783bec7ea33f1059b842ed8e",
     "configs/q2_reupload.yaml": "e821d902976ff1c4b9a59b2a262de476de3d26102f28fdce1811175744f2ff06",
     "docs/results_interpretation.md": "90f128ad7c2f700ef72906a83723ca3183ee400268d96dba1fd737486c0f37d0",
-    "report/technical_report.md": "2e8fc0a4f5b4381fdcd0d9b7c65a4245f6986f560662be8b50bce7d903f9334f",
-    "report/technical_report.pdf": "c657d884ca5a0213c8f6ae306cb3a4cf738cb53c2eb66e0efa1013fd3a6bbac9",
+    "report/technical_report.md": "765159cb10dba16683c84b2907a31b66e4e95937a060e158cda474a2c0ad2f8a",
+    "report/technical_report.pdf": "a115f446ab71225a074032af5582ed8af36f560817b6554c3defe180ed235996",
     "requirements-lock.txt": "14870b84381b5119ad99f195a7c750e95421f6607c28c741951a2218340d166a",
     "results/figures/accuracy_vs_parameters.png": "e647b21782f839ee2a863b3158025027fe6d975275095fb3af1a3987a2c1f222",
     "results/figures/accuracy_vs_runtime.png": "37a07185b38b57c8ccc8ed9d9d087aaf4754b3b1906d7872981b2efeaea3aebc",
@@ -278,8 +278,8 @@
     "results/steady_runs/steady_q1_entangled_seed37.json": "b85799e780dc0bab198288ff1b3d6e81d59b31c9f29c3b8b2ed7484e390aef33",
     "results/steady_runs/steady_q1_entangled_seed37_arrays.npz": "9ce07c78b97c7dc991b62da72dc6756e17cc763cecd17a3ce354e7b23cc62a29",
     "scripts/analyze_results.py": "00456ede36b0785aff01c2c34473991184c120ac543470a504e7d0fe35889c08",
-    "scripts/build_report_pdf.py": "8b62ce3fc5d43255cd5be26e67d784d81cdcc8d52007d535c53d8cf6befc71e6",
-    "scripts/package_final_submission.py": "3ec51264cbe1f263ed8a4ac63703aa1cbfc3f91483961bf032592c95744d9617",
+    "scripts/build_report_pdf.py": "9d40838dd998b4ccd7c30d9d6d5fdbe18d7a5d0915d82c8afc16ccb5796d5315",
+    "scripts/package_final_submission.py": "c5e41ce3ccac2ead9d079276910dabd5af819744a9694e9fec1d93051413ca71",
     "scripts/run_final_transient.py": "ee135906c2fa656602dd975e48d19caf44066b137809292db1702353d39d8bbf",
     "scripts/run_mvp.py": "75a7b6472d6feb1eabe425628a88ff16f7d1ea66cd3d54745f80b0bed6ec70c9",
     "scripts/run_steady.py": "8748f90b3731c83ee764c781156b2e0b61768bc992d74cf27e636107a3b0e40b",
@@ -305,7 +305,7 @@
     "src/train.py": "c1e601c0298e70dedfff651cf59db35f3e21c54c576123e253e228bd2b642d0d",
     "src/train_qapinn.py": "8b20dd0a6f2facbce066dad6287e61f32d2fec1e4980c53c96f3903e7b2d46c1",
     "submission/ai_use_disclosure.md": "84420b55290918871a4376b1260f0ab6c36f549d09221edc4538e9b3684c4569",
-    "submission/contribution_statement.md": "d0c5330b5c5e7efcdcf66c07193d10923f5acc88e2660693a88894b8ed11f8ca",
+    "submission/contribution_statement.md": "232f3ec9c4aa96b1950b88cf5eb00a184662640d6f81a5b522325fc5deb9346c",
     "submission/key_findings.md": "6e31b498c6ff23aa620233ed55346422cff9ae68245a4d2f73da27c159974690",
     "submission/recommendations.md": "fc9f2201a47054a013e785c80ca72a177653f094b10e943e546f7c91d5c0602b",
     "submission/submission_checklist.md": "2bd429b76b63c82a37140d815dd42d4f9f8d12f23ed98023c4d76c1dfaae85dc",
@@ -313,8 +313,8 @@
     "tests/test_physics_reference.py": "4088c9e6ab59e704dbd695e1df8039a46d0522420e987e32a337199a475751b2",
     "tests/test_quantum_feasibility.py": "634bfae9cf50927dde330a44b18736e8f148116107d35089ef27f8ff7d6e2157"
   },
-  "final_zip_sha256": "6de4cc418d0b029e0bb53e0ab311ae9723e7ade6be48332be4cebbdbb457772c",
+  "final_zip_sha256": "3176f4330f2227e5c2eaa5bc8fb08bca55bb9632e16b75163ae8eba496df3257",
   "final_zip_sha256_note": "The archive hash is written to submission/qapinn_thermo_optic_final_submission.zip.sha256 after package creation.",
-  "final_zip_size_bytes": 3435788,
+  "final_zip_size_bytes": 3435894,
   "included_file_count": 139
 }
